@@ -1,0 +1,4 @@
+[submodule "ZRQ-rikkie.github.io"]
+	path = ZRQ-rikkie.github.io
+	url = https://github.com/ZRQ-rikkie/ZRQ-rikkie.github.io
+	branch = main
