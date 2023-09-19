@@ -1,1 +1,0 @@
-# ZRQ-rikkie.github.io
