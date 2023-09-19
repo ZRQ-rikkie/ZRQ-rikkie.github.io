@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ZRQ-rikkie.github.io/sitemap.xml
